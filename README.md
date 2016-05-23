@@ -1,5 +1,11 @@
 # HelibSorting
 
+[Xin gửi lời tạ ơn chân thành đến ngài Shai Halevi và đồng bọn
+đã thai nghén ra thư viện này giúp bần cố nông tôi hoàn thành
+một phần của đồ án tốt nghiệp. *Thả tym* - chỉ góp ý là các ngài
+nên chăm update documentation một chút,để bần cố nông tôi đỡ nhọc 
+não hơn]
+
 Sử dụng thư viện Helib - Thư viện mã hóa đồng cấu sử dụng mô
 hình mã hóa đồng cấu leveled BGV - để cài đặt thuật toán 
 direct-sorting và Bionic-Sorting trên dữ liệu mã hóa.
