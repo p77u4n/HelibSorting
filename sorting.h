@@ -150,7 +150,7 @@ void bitonicSorting(vector<Ctxt>& ctxtIns,long nslots,EncryptedArray& ea,Ctxt & 
     
     Ctxt notDir(dir.getPubKey());
     notDir = dir;
-    NOT(notDir,cOne);
+    NOT(notDir,cOneZero);
     if(n > 1){
         long m = n/2;
         bitonicSorting(ctxtIns,nslots,ea,cZeroOne,cOneZero,cOne,lo,m,notDir);
