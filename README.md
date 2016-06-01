@@ -1,10 +1,8 @@
 # HelibSorting
 
-[Xin gửi lời tạ ơn chân thành đến ngài Shai Halevi và đồng bọn
-đã thai nghén ra thư viện này giúp bần cố nông tôi hoàn thành
-một phần của đồ án tốt nghiệp. *Thả tym* - chỉ góp ý là các ngài
-nên chăm update documentation một chút,để bần cố nông tôi đỡ nhọc 
-não hơn]
+[NOTE : Documentation của thư viện là không chính xác,mong
+các bạn chú ý.Các tác giả dường như không chú ý cập nhật
+documentation]
 
 Sử dụng thư viện Helib - Thư viện mã hóa đồng cấu sử dụng mô
 hình mã hóa đồng cấu leveled BGV - để cài đặt thuật toán 
@@ -31,5 +29,5 @@ g++ -g -O2 -o decrypter_x decrypter.cpp  "đường dẫn fhe.a trong src của 
 
 g++ -g -O2 -o encrypter_x encrypter.cpp  "đường dẫn fhe.a trong src của Helib" -L/usr/local/lib -lntl -lgmp -lm
 
-Mọi thảo luận vui lòng gửi về email Ptuankhang@gmail.com - Cảm ơn đã xem. <3
+
 
